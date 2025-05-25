@@ -101,3 +101,10 @@ body {
 .nav-link.active {
     color: #ffffff;
 }
+
+a {
+    background: linear-gradient(90deg, #2e22ef, #ec48ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
